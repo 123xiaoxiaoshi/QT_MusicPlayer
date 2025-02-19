@@ -1,0 +1,16 @@
+release/audioprocessor.o
+release/enroll.o
+release/individual.o
+release/login.o
+release/lyricsinterface.o
+release/main.o
+release/mainwindow.o
+release/kiss_fft.o
+release/kiss_fftr.o
+release/qrc_res.o
+release/moc_audioprocessor.o
+release/moc_enroll.o
+release/moc_individual.o
+release/moc_login.o
+release/moc_lyricsinterface.o
+release/moc_mainwindow.o

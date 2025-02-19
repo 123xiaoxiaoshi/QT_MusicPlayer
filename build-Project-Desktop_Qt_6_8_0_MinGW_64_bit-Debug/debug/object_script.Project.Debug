@@ -1,0 +1,16 @@
+debug/audioprocessor.o
+debug/enroll.o
+debug/individual.o
+debug/login.o
+debug/lyricsinterface.o
+debug/main.o
+debug/mainwindow.o
+debug/kiss_fft.o
+debug/kiss_fftr.o
+debug/qrc_res.o
+debug/moc_audioprocessor.o
+debug/moc_enroll.o
+debug/moc_individual.o
+debug/moc_login.o
+debug/moc_lyricsinterface.o
+debug/moc_mainwindow.o
